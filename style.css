@@ -1,0 +1,14 @@
+#Juan {
+    font-family:Comic Sans;
+    font-weight: bolder;
+    font-size:19px; 
+    text-align:center;
+}
+body {
+    color: #9BC4E2;
+    background-image: url("http://i.stack.imgur.com/p9mUO.jpg")
+        
+}
+body {
+    border: 9.5px groove #99BADD
+}
